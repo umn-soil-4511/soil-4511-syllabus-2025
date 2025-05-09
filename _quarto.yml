@@ -25,6 +25,7 @@ book:
     - safety-plan.qmd
     - fine-print.qmd
     - class-schedule.qmd
+    # - food.qmd
     # - faqs.qmd
     # - further-opportunities.qmd
     # - references.qmd
