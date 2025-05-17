@@ -6,9 +6,9 @@ project:
 book:
   title: "Field Study of Soils (SOIL 4511) Syllabus - Summer 2025"
   author: "Nic Jelinski"
-  date: "15MAY2025"
+  date: "17MAY2025"
   cover-image: "soil-4511.png"
-  number: "2.0"
+  number: "3.0"
   #navbar: 
     #right: 
       #- icon: cc-circle
@@ -22,6 +22,7 @@ book:
     - expectations.qmd
     # - course-materials.qmd
     - packing-lists.qmd
+    - hygiene.qmd
     - safety-plan.qmd
     - fine-print.qmd
     - class-schedule.qmd
